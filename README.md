@@ -16,11 +16,18 @@ Makes it appear full screen or prevents the closing operation.
 
 ## Getting Started
 ### Using Cocoapods
+```
+  pod 'PrepareCardStyleModal'
+```
 ### Using Carthage
 ### Using SwiftPackageManager
 
 ## How to Using
-Add one of the two codes below to didFinishLaunchingWithOptions in your app delegate.
+First import into the app delegate.
+```swift
+import PrepareCardStyleModal
+```
+Just add one of the two codes below to didFinishLaunchingWithOptions.
 ```swift
 UIViewController.presentFullScreenSwizzledMethod
 ```
