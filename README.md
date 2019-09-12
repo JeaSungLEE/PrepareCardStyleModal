@@ -20,7 +20,9 @@ Makes it appear full screen or prevents the closing operation.
   pod 'PrepareCardStyleModal'
 ```
 ### Using Carthage
-### Using SwiftPackageManager
+```
+   github "JeaSungLEE/PrepareCardStyleModal"
+```
 
 ## How to Using
 First import into the app delegate.
