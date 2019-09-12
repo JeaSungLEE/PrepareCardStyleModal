@@ -9,7 +9,7 @@
 import UIKit
 
 extension UIViewController {
-    static let presentFullScreenSwizzledMethod: Void = {
+    public static let presentFullScreenSwizzledMethod: Void = {
         let originalSelector = #selector(present(_:animated:completion:))
         let swizzledSelector = #selector(jercyPresent(_:animated:completion:))
         let originalMethod = class_getInstanceMethod(UIViewController.self, originalSelector)
@@ -29,7 +29,7 @@ extension UIViewController {
 }
 
 extension UIViewController {
-    static let preventDissmissSwizzledMethod: Void = {
+    public static let preventDissmissSwizzledMethod: Void = {
         let originalSelector = #selector(present(_:animated:completion:))
         let swizzledSelector = #selector(jercyPreventDismissPresent(_:animated:completion:))
         let originalMethod = class_getInstanceMethod(UIViewController.self, originalSelector)
