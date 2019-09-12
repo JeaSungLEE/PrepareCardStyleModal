@@ -3,12 +3,30 @@
 
 Easily change cardstyle modal to fullscreen or prevent slides from closing in iOS13.
 
+## Introduce
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/origin.gif">
+Modal changed to card style in iOS13 and now works like the image above.
+If you are not yet ready for modal style, you have to do a lot of code.
+I created a library to respond with one line of code.
+
+There are two actions as below.
+Makes it appear full screen or prevents the closing operation.
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/fullscreen.gif">
+<img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/preventslide.gif">
+
 ## Getting Started
 ### Using Cocoapods
 ### Using Carthage
 ### Using SwiftPackageManager
 
 ## How to Using
+Add one of the two codes below to didFinishLaunchingWithOptions in your app delegate.
+```swift
+UIViewController.presentFullScreenSwizzledMethod
+```
+```swift
+UIViewController.preventDissmissSwizzledMethod
+```
 very ⭐️ easy
 
 ## Authors
