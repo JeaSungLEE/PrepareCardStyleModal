@@ -28,9 +28,11 @@ First import into the app delegate.
 import PrepareCardStyleModal
 ```
 Just add one of the two codes below to didFinishLaunchingWithOptions.
+- open fullScreen
 ```swift
 UIViewController.presentFullScreenSwizzledMethod
 ```
+- prevent Dissmiss
 ```swift
 UIViewController.preventDissmissSwizzledMethod
 ```
