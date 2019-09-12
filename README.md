@@ -11,6 +11,7 @@ I created a library to respond with one line of code.
 
 There are two actions as below.
 Makes it appear full screen or prevents the closing operation.
+
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/fullscreen.gif">
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/preventslide.gif">
 
