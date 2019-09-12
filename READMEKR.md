@@ -1,7 +1,6 @@
 # PrepareCardStyleModal
-[한국어로 보기](https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/READMEKR.md)
 
-Easily change cardstyle modal to fullscreen or prevent slides from closing in iOS13.
+iOS13에서 변경된 카드스타이 모달 형태를 기존모습을 쉽고 간단하게 대응하세요.
 
 ## Introduce
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/origin.gif">
