@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "PrepareCardStyleModal"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Return modal in iOS 13 to previous version."
   spec.description  = <<-DESC
 Easily change cardstyle modal to fullscreen or prevent slides from closing in iOS13.
