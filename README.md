@@ -13,7 +13,7 @@ very ⭐️ easy
 
 ## Authors
 
-*🇰🇷 **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
+* 🇰🇷 **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
 
 ## License
 
