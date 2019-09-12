@@ -10,6 +10,7 @@ iOS13에서 모달이 카드스타일로 변경되면서 위의 이미지처럼 
 
 아래와 같이 두가지 동작이 있습니다.
 전체화면으로 나타나게하거나, 닫힘동작을 방지하도록 합니다.
+
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/fullscreen.gif">
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/preventslide.gif">
 
