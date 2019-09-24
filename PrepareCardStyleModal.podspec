@@ -17,6 +17,6 @@ Easily change cardstyle modal to fullscreen or prevent slides from closing in iO
   spec.ios.deployment_target = '9.0'
   spec.source       = { :git => "https://github.com/JeaSungLEE/PrepareCardStyleModal.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}", "*.swift"
+  spec.source_files  = "PrepareCardStyleModal/PrepareCardStyleModal/*.{h,m}", "*.swift"
   spec.exclude_files = "Classes/Exclude"
 end
