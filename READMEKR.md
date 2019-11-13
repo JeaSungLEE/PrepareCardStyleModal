@@ -1,6 +1,6 @@
 # PrepareCardStyleModal
 
-iOS13에서 변경된 카드스타이 모달 형태를 기존모습을 쉽고 간단하게 대응하세요.
+iOS13에서 변경된 카드스타일 모달 형태를 기존모습을 쉽고 간단하게 대응하세요.
 
 ## Introduce
 <img width="200" alt="image" src="https://github.com/JeaSungLEE/PrepareCardStyleModal/blob/master/Images/origin.gif">
